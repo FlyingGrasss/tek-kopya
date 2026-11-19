@@ -38,6 +38,7 @@
     "concurrently": "^10.0.7",
     "eslint": "^8.57.1",
     "eslint-config-next": "15.5.29",
+    "playwright": "^1.65.1",
     "postcss": "^8.5.33",
     "tailwindcss": "^3.4.19",
     "tsx": "^4.23.15",
